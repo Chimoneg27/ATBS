@@ -1,12 +1,21 @@
 # 2e Chapter2 Summary questions
 
 # 8 - 9
-spam = 3
-if spam == 10:
-    print('eggs')
-    if spam > 5:
-        print('bacon')
-    else:
-        print('ham')
-    print('spam')
-print('spam')
+# spam = 1
+
+# if spam == 1:
+#     print('Hello')
+# elif spam == 2:
+#     print('Howdy')
+# else:
+#     print('Greetings!')
+
+# 10
+
+# up = 1
+# while up < 11:
+#     print(up)
+#     up = up + 1
+
+for i in range(11):
+    print(i)
